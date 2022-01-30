@@ -46,6 +46,8 @@ var id = 161;
 // }
 
 
+
+/*
 var green = true;
 var red = false;
 var yellow = "hold on"
@@ -60,3 +62,8 @@ else if (signal === red){
 else{
     console.log('hold on');
 }
+*/
+
+var name = 'shibly';
+name = 10;
+console.log(typeof(name));
